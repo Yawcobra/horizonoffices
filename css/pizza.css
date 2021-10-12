@@ -1,0 +1,20 @@
+
+
+.container-fluid carousel{
+    width: 50px;
+}
+.carousel-inner{
+    width: 1500px;
+    height: 500px;
+    padding-left: 0em;
+    margin-top: 0px;
+}
+.navbar-nav navbar-right{
+    color: white;
+}
+.main-bar{
+    background-color: brown;
+}
+.navbar-right li a {
+    color: white;
+}

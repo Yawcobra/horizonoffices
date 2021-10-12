@@ -1,0 +1,41 @@
+.footer{
+	background-color: darkblue;
+	color: white;
+	margin-top: 5em;
+	font-family: poppins;
+}
+#kenya{
+	color: yellow;
+}
+#ghana{
+	color: yellow;
+}
+#nigeria{
+	color: yellow;
+}
+.plan{
+	font-family: poppins;
+	margin-top: 5em;
+}
+#plans{
+	text-align: center;
+	color:black;
+	margin-bottom: 2em;
+
+}
+.mainpic{
+	margin-top: 7em;
+}
+#about{
+	float: right;
+	margin-top: 2em;
+	font-size: 20px;
+}
+.nav1{
+	margin-top: 0em;
+	font-family: poppins;
+}
+.flags{
+	padding-left: 8em;
+	margin-top: 4em;
+}
